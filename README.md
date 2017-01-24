@@ -10,7 +10,8 @@ Tölvutækni
 	Skammstöfunin ROM stendur fyrir Read Only Memory. ROM er með data inní því sem er ekki hægt að eyða úr nema með UV light
 
 3. Hvað er fyrirbyggjandi viðhald?
-
+	
+	Það er reglulegt tjekk eins og í fyrri Windows version  að defragga og scan disk. Eyða unused programms til að fría pláss scanna spyware og virus.
 	
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
 verjast því þegar unnið er með tölvubúnað?
@@ -42,3 +43,7 @@ Nefnið dæmi um báðar gerðir af spurningum.
 9. Nefndu þrjú dæmi um inntakstæki.
 
 	Inntakstæki(Input Device) eru tæki sem eru tengt við tölvuna eins og músin og lyklaborð. Hátalarar og headphones eru output device sem gefa frá sér. Leikjafjarstýring(Joystick) er flokkað sem inntakstæki þegar það er slegið inn eða ýtt á taka er verið að gera input.
+
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
