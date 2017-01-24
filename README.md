@@ -34,3 +34,7 @@ verjast því þegar unnið er með tölvubúnað?
 Nefnið dæmi um báðar gerðir af spurningum.
 
 	Close ended spurningar eru spurningar sem er einungis svarað með 'já' eða 'nei'. Open ended hinsvegar eru spurningar sem þarf að hugsa vel heldur en að svara bara með einu einfaldu já eða nei orði.
+
+8. Hvað eru jaðartæki?
+
+	Jaðartæki eru hlutir sem tengjast við tölvuna eins og t.d. músin,lyklaborð,hátlarar og skjárinn
