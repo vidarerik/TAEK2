@@ -38,3 +38,7 @@ Nefnið dæmi um báðar gerðir af spurningum.
 8. Hvað eru jaðartæki?
 
 	Jaðartæki eru hlutir sem tengjast við tölvuna eins og t.d. músin,lyklaborð,hátlarar og skjárinn
+
+9. Nefndu þrjú dæmi um inntakstæki.
+
+	Inntakstæki(Input Device) eru tæki sem eru tengt við tölvuna eins og músin og lyklaborð. Hátalarar og headphones eru output device sem gefa frá sér. Leikjafjarstýring(Joystick) er flokkað sem inntakstæki þegar það er slegið inn eða ýtt á taka er verið að gera input.
