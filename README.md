@@ -47,3 +47,14 @@ Nefnið dæmi um báðar gerðir af spurningum.
 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+	Tolvulistinn: 
+	Kassi:Cooler Master MasterCase 5 turnkassi 26.996kr
+	Móðurborð:MSI B150A GAMING PRO 1151 ATX, 6x SATA USB3.1 22.496kr
+	aflgjafi:Cooler Master CM V 1000W Gold alveg modular 35.996kr
+	örgjörvi:Intel Core i5-6600 3.3GHz S1151 14nm 6MB 33.995kr
+	ram:Corsair 8GB DDR4 1x8GB 2400MHz svört Vengeance CL14 10.995kr
+	ram:Corsair 8GB DDR4 1x8GB 2400MHz svört Vengeance CL14 10.995kr
+	skjákort:MSI GeForce GTX 1070 Armor 8GB OC 76.496kr
+	harddrive:Seagate 2TB 3.5" SATA3 7200RPM 64MB 13.000kr
+	Kææling: Cooler Master CoolerMaster V8 high-end gaming kæling Ver.2 13kr
