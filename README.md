@@ -11,7 +11,7 @@ Tölvutækni
 
 3. Hvað er fyrirbyggjandi viðhald?
 	
-	Það er reglulegt tjekk eins og í fyrri Windows version  að defragga og scan disk. Eyða unused programms til að fría pláss scanna spyware og virus.
+	Það er reglulegt tjekk eins og í fyrri Windows version  að defragga og scan disk. Eyða unused programms til að fría pláss scanna spyware og virus. Uppfæra Skjákort,Vírusvörn og windows update
 	
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
 verjast því þegar unnið er með tölvubúnað?
