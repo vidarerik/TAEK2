@@ -25,11 +25,11 @@ verjast því þegar unnið er með tölvubúnað?
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 
 	*Slökkva og kveikja
+	*Athuga með harðadiskinn sem stýrikerfið er á
 	*BIOS
-	*Fá aðstoð hjá reindum
+	*Heyra í skrítin hljóð sem diskurinn eða annað gefur frá sér til að greinabilun
+	*Fá aðstoð hjá reindum aðila
 	*Fara í viðgerð
-	*
-	*
 
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
