@@ -24,12 +24,12 @@ verjast því þegar unnið er með tölvubúnað?
 
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 
-	*Slökkva og kveikja
-	*Athuga með harðadiskinn sem stýrikerfið er á
-	*BIOS
-	*Heyra í skrítin hljóð sem diskurinn eða annað gefur frá sér til að greinabilun
-	*Fá aðstoð hjá reindum aðila
-	*Fara í viðgerð
+	*1. Finna vandamálið
+	*2. Koma með kenningu hvað vandamálið er
+	*3. Prufa kenningu með því að gera aðgerðir
+	*4. Koma með plan um aðgerða til að leysa vandamál og finna lausn.
+	*5. staðfesta að kerfið skili réttri virkni með því að reboota,tjekka á forrit hvort þau virki og ath hvort það séu engin error skilaboð
+	*6. Ræða við viðskipavin segja honum frá hvað þurfti að laga og fá staðfestingu frá honum hvort allt sé í góðum sóma
 
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
